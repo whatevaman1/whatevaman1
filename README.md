@@ -1,5 +1,5 @@
 # 💫 About Me  
-### Aman Sayyed | Computer Engineering Student  
+### Aman Sayyed | Computer Engineering Student 
 
 I'm a **Computer Engineering** student based in **Mumbai, India**, currently pursuing my **BTech in Computer Engineering** at **SVKM’s NMIMS Mukesh Patel School of Technology Management & Engineering**.  
 
