@@ -1,10 +1,10 @@
 # 💫 About Me  
 ### Aman Sayyed | Computer Engineering Student 
 
-I'm a **Computer Engineering** student based in **Mumbai, India**, currently pursuing my **BTech in Computer Engineering** at **SVKM’s NMIMS Mukesh Patel School of Technology Management & Engineering**.  
+I'm a **BTech student in Computer Engineering** at **SVKM’s NMIMS Mukesh Patel School of Technology Management & Engineering** in **Mumbai, India**.
 
-🚀 **Exploring** full-stack development with a focus on **React** and modern web technologies.  
-🎯 **Passionate about** coding, problem-solving, and staying updated with the latest tech trends.  
+🚀 **Exploring** DevOps, with a focus on **automation, CI/CD pipelines, and cloud technologies**.  
+🎯 **Passionate about** coding, problem-solving, and staying up to date with the latest tech trends.  
 🎵 **Outside of tech**, I enjoy music, movies, and exploring new places with friends.  
 
 ---  
