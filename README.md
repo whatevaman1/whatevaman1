@@ -32,3 +32,15 @@ I'm a **BTech student in Computer Engineering** at **SVKM’s NMIMS Mukesh Patel
 
 ## 💰 Support My Work  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/amansayyed10)
+
+---
+
+---
+
+<div align="center">
+
+### 👀 PROFILE VIEWS
+
+<img src="https://komarev.com/ghpvc/?username=whatevaman1&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" alt="GitHub Profile Views"/>
+
+</div>
